@@ -23,11 +23,11 @@ All files are in zip format
 
 #### **Semple Images**
 >From sources
- 
-   <font color="#00000"> **Theme**</font>
+  **Theme**
   
   ![image 1](https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/06/orchis-gtk-theme-for-ubuntu-750x430.jpg)
- <font color="#00000"> **Cursor**</font>
+
+**Cursor**
   
   ![image 1](https://cdn.pling.com/img/8/4/7/6/977382e4ce85dd332ef2a9e2cce70d93a9ae4f5eaab02b1a1706d849e9959e62bd9f.png)
   ![image 2](https://cdn.pling.com/img/9/a/a/f/f274572cb56258c81f1b747f96f0e70848cc2ab0ba8063b1cbcf657d7cb1893c072f.png)
